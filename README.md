@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to Python3  
   
 
-- ⚡ Fun fact: I only use Windows  
+- ⚡ Fun fact: I love hack.chat
   
 
 <br/>  
