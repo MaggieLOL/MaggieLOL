@@ -61,6 +61,8 @@
                     src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
                     align="center"
                 />
-            </a></div>
+            </a>
+<img src="https://wakatime.com/badge/user/446b98ad-62be-496b-bda1-7cec523e3316.svg" align="center" />
+</div>
 <br />
 
